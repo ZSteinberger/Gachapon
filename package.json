@@ -1,0 +1,28 @@
+{
+  "name": "gachaponbot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ZSteinberger/Gachapon.git"
+  },
+  "author": "Zachary Steinberger",
+  "license": "ISC",
+  "dependencies": {
+    "aws-sdk": "^2.382.0",
+    "body-parser": "^1.18.3",
+    "cloudinary": "^1.13.2",
+    "custom-env": "^1.0.0",
+    "discord.js": "^0.8.2",
+    "express": "^4.16.4",
+    "paypal": "^1.0.1"
+  },
+  "devDependencies": {
+    "nodemon": "^1.18.9"
+  }
+}
