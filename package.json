@@ -18,7 +18,7 @@
     "body-parser": "^1.18.3",
     "cloudinary": "^1.13.2",
     "custom-env": "^1.0.0",
-    "discord.js": "^0.8.2",
+    "discord.js": "^11.4.2",
     "express": "^4.16.4",
     "paypal": "^1.0.1"
   },
